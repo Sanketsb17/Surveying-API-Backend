@@ -1,4 +1,4 @@
-﻿Polling System API
+﻿Surveying System API
 TIME: 5 hours
 
 Let’s make a polling system, only API based. [Good Enough Completion Time: 3 hours + 1 hour for finalizing things]
