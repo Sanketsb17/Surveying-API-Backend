@@ -4,15 +4,15 @@ const options = new mongoose.Schema({
     question: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Questions',
-        // required: true
+        required: true
     },
     text: {
         type: String,
-        // required: true
+        required: true
     },
     votes: {
         type: Number,
-        // required: true
+        required: true
     },
     link_to_vote:{
         type:String
